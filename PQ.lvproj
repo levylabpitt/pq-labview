@@ -17,13 +17,10 @@
 		<Item Name="PQ Example SELECT.vi" Type="VI" URL="../Examples/PQ Example SELECT.vi"/>
 		<Item Name="PQ Result.lvclass" Type="LVClass" URL="../Result/PQ Result.lvclass"/>
 		<Item Name="PQ Support.lvlib" Type="Library" URL="../Support/PQ Support.lvlib"/>
-		<Item Name="Result Status.ctl" Type="VI" URL="../Result/Result Status.ctl"/>
 		<Item Name="SELECT Template.vi" Type="VI" URL="../SELECT Template.vi"/>
 		<Item Name="SQLite.lvlib" Type="Library" URL="/&lt;vilib&gt;/drjdpowell/SQLite Library/SQLite.lvlib"/>
-		<Item Name="Untitled 3.vi" Type="VI" URL="../Connection/Untitled 3.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
-				<Item Name="__lava_libpq.lvlib" Type="Library" URL="/&lt;vilib&gt;/LAVA/libpq/__lava_libpq.lvlib"/>
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
