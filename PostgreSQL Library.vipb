@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-10-03 15:19:37" Modified_Date="2016-10-04 10:43:24" Creator="James.Powell" Comments="" ID="51eebb0a0c2306903d817336770abc14">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-10-03 15:19:37" Modified_Date="2016-10-04 11:01:36" Creator="James.Powell" Comments="" ID="7541857602f22a6de363c59fd98ead8f">
   <Library_General_Settings>
     <Package_File_Name>JDP_Science_PostgreSQL</Package_File_Name>
-    <Library_Version>0.1.0.3</Library_Version>
+    <Library_Version>0.1.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\builds</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager/>
       <URL/>
-      <Release_Notes>Wrapping of libPQ for PostgreSQL access.  Higher-level than libPQ itself.  See Examples.</Release_Notes>
+      <Release_Notes>Better Examples.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -323,7 +323,7 @@
         <Path>Connection\COMMIT (ROLLBACK on Error).vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FB229E6C74A8433CFA68D970CF4641AF</GUID>
+      <GUID>C0D98C58F08A1B24DBE7EE82517EC267</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
