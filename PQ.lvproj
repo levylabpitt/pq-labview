@@ -11,10 +11,11 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="PostgreSQL Library.vipb" Type="Document" URL="../PostgreSQL Library.vipb"/>
 		<Item Name="PQ Connection.lvclass" Type="LVClass" URL="../Connection/PQ Connection.lvclass"/>
-		<Item Name="PQ Example INSERT.vi" Type="VI" URL="../Examples/PQ Example INSERT.vi"/>
+		<Item Name="PQ Example Many INSERTs.vi" Type="VI" URL="../Examples/PQ Example Many INSERTs.vi"/>
+		<Item Name="PQ Example SELECT Clusters.vi" Type="VI" URL="../Examples/PQ Example SELECT Clusters.vi"/>
 		<Item Name="PQ Example SELECT, Parameters.vi" Type="VI" URL="../Examples/PQ Example SELECT, Parameters.vi"/>
-		<Item Name="PQ Example SELECT.vi" Type="VI" URL="../Examples/PQ Example SELECT.vi"/>
 		<Item Name="PQ Result.lvclass" Type="LVClass" URL="../Result/PQ Result.lvclass"/>
 		<Item Name="PQ Support.lvlib" Type="Library" URL="../Support/PQ Support.lvlib"/>
 		<Item Name="SELECT Template.vi" Type="VI" URL="../SELECT Template.vi"/>
@@ -42,6 +43,7 @@
 				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetRTHostConnectedProp.vi"/>
+				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="Is Path and Not Empty.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Is Path and Not Empty.vi"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
@@ -93,7 +95,7 @@
 				<Property Name="Source[0].itemID" Type="Str">{50094046-D3F8-41CA-B1B0-4E98AA7CA4E6}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/PQ Example SELECT.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/PQ Example SELECT Clusters.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
