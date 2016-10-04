@@ -19,7 +19,7 @@
 		<Item Name="PQ Example SELECT, Parameters.vi" Type="VI" URL="../Examples/PQ Example SELECT, Parameters.vi"/>
 		<Item Name="PQ Result.lvclass" Type="LVClass" URL="../Result/PQ Result.lvclass"/>
 		<Item Name="PQ Support.lvlib" Type="Library" URL="../Support/PQ Support.lvlib"/>
-		<Item Name="SELECT Template.vi" Type="VI" URL="../SELECT Template.vi"/>
+		<Item Name="SELECT Template.vi" Type="VI" URL="../Templates/SELECT Template.vi"/>
 		<Item Name="SQLite.lvlib" Type="Library" URL="/&lt;vilib&gt;/drjdpowell/SQLite Library/SQLite.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">

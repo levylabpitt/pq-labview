@@ -8,4 +8,5 @@
 
 </Property>
 	<Item Name="Create C-string pointer.vi" Type="VI" URL="../Create C-string pointer.vi"/>
+	<Item Name="Scan Timestamp.vi" Type="VI" URL="../Scan Timestamp.vi"/>
 </Library>
