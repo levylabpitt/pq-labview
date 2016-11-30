@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-10-03 15:19:37" Modified_Date="2016-10-04 20:57:36" Creator="James.Powell" Comments="" ID="082c5d7b9a9d8efb5f91906d51c58efb">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-10-03 15:19:37" Modified_Date="2016-10-21 16:33:53" Creator="James.Powell" Comments="" ID="8b9211828895f481239d0ed66e2621fb">
   <Library_General_Settings>
     <Package_File_Name>JDP_Science_PostgreSQL</Package_File_Name>
     <Library_Version>0.1.0.8</Library_Version>
@@ -29,7 +29,7 @@
     <Description>
       <One_Line_Description_Summary/>
       <Description>Wrapping of libPQ for PostgreSQL access.  Higher-level than libPQ itself.  See Examples.</Description>
-      <Copyright/>
+      <Copyright>Copyright (c) 2016, JDP Science Limited</Copyright>
       <Packager/>
       <URL/>
       <Release_Notes>Better Examples.</Release_Notes>
@@ -337,7 +337,7 @@
         <Path>Result\Clear.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>05686020BC56D25C350EDAF894936FD1</GUID>
+      <GUID>E46E4286A4F831475D777AD2A03131B9</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
