@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-10-03 15:19:37" Modified_Date="2016-10-21 16:33:53" Creator="James.Powell" Comments="" ID="8b9211828895f481239d0ed66e2621fb">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-10-03 15:19:37" Modified_Date="2016-11-30 17:09:36" Creator="James.Powell" Comments="" ID="b9808211eaa724d14b049c96b024383f">
   <Library_General_Settings>
     <Package_File_Name>JDP_Science_PostgreSQL</Package_File_Name>
-    <Library_Version>0.1.0.8</Library_Version>
+    <Library_Version>0.1.1.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\builds</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright>Copyright (c) 2016, JDP Science Limited</Copyright>
       <Packager/>
       <URL/>
-      <Release_Notes>Better Examples.</Release_Notes>
+      <Release_Notes>Allow clusters of parameters to include subcluster structure (which is flattened away before binding) as a conveniance.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -337,7 +337,7 @@
         <Path>Result\Clear.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E46E4286A4F831475D777AD2A03131B9</GUID>
+      <GUID>E9CDF4449F9236358CDABF89FCA6F74F</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
