@@ -13,4 +13,5 @@ to set up **pull** from Bitbucket and **push** to GitHub
 ## License and Copyright
 
 BSD-2
+
 Copyright (c) 2016, JDP Science Limited
