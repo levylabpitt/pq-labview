@@ -17,6 +17,7 @@
 		</Item>
 		<Item Name="PostgreSQL Library.vipb" Type="Document" URL="../PostgreSQL Library.vipb"/>
 		<Item Name="PQ Connection.lvclass" Type="LVClass" URL="../Connection/PQ Connection.lvclass"/>
+		<Item Name="PQ Example COPY file.vi" Type="VI" URL="../Examples/PQ Example COPY file.vi"/>
 		<Item Name="PQ Example COPY.vi" Type="VI" URL="../Examples/PQ Example COPY.vi"/>
 		<Item Name="PQ Example Many INSERTs.vi" Type="VI" URL="../Examples/PQ Example Many INSERTs.vi"/>
 		<Item Name="PQ Example SELECT Clusters.vi" Type="VI" URL="../Examples/PQ Example SELECT Clusters.vi"/>
@@ -64,6 +65,7 @@
 				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
 				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler Core CORE.vi"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
+				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
 				<Item Name="Get String Text Bounds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Get String Text Bounds.vi"/>
 				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi"/>
 				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
