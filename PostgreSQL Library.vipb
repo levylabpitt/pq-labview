@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2016-10-03 15:19:37" Modified_Date="2021-05-03 13:02:57" Creator="James.Powell" Comments="" ID="8be4ff99249d9082249257f7d021b895">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2016-10-03 15:19:37" Modified_Date="2021-05-03 13:12:58" Creator="James.Powell" Comments="" ID="8b4d0628929b6bb153c0575c1ecd5537">
   <Library_General_Settings>
     <Package_File_Name>JDP_Science_PostgreSQL</Package_File_Name>
-    <Library_Version>0.3.4.21</Library_Version>
+    <Library_Version>0.3.4.23</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>builds</Library_Output_Folder>
@@ -142,6 +142,9 @@ Thanks to contributor Antoine Chalons (@antoinechalons) for their work on this r
       </Exclusions>
       <Exclusions>
         <Path>Utility</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>builds</Path>
       </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
@@ -383,7 +386,7 @@ Thanks to contributor Antoine Chalons (@antoinechalons) for their work on this r
         <Path>Connection\COPY.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B00B7464BA97D0BE7192D0B923321E31</GUID>
+      <GUID>2A6CE74556DFA94404AE0F71C9E15CAB</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
