@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2016-10-03 15:19:37" Modified_Date="2021-04-28 17:01:49" Creator="James.Powell" Comments="" ID="82c51e6ba0bfac222b847889dfb17e02">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2016-10-03 15:19:37" Modified_Date="2021-05-03 13:02:57" Creator="James.Powell" Comments="" ID="8be4ff99249d9082249257f7d021b895">
   <Library_General_Settings>
     <Package_File_Name>JDP_Science_PostgreSQL</Package_File_Name>
-    <Library_Version>0.3.3.20</Library_Version>
+    <Library_Version>0.3.4.21</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>builds</Library_Output_Folder>
@@ -35,7 +35,11 @@ https://forums.ni.com/t5/NI-Linux-Real-Time-Documents/Tutorial-PostgreSQL-with-L
       <Copyright>Copyright (c) 2016, JDP Science Limited</Copyright>
       <Packager>JDP Science</Packager>
       <URL>https://www.vipm.io/package/jdp_science_postgresql/</URL>
-      <Release_Notes>0.3.3:
+      <Release_Notes>0.3.4:
+- fix issues with PGPASS credentials UI
+- look for "(" ")" in COPY column list
+
+0.3.3:
 - back save to LabVIEW 2016
 - add support for pgpass credentials files (Issue #4)
 - add support for COPY (issue #5)
@@ -379,7 +383,7 @@ Thanks to contributor Antoine Chalons (@antoinechalons) for their work on this r
         <Path>Connection\COPY.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CC171446F39BB4D7AE2DED26449C687A</GUID>
+      <GUID>B00B7464BA97D0BE7192D0B923321E31</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
