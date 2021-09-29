@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2016-10-03 15:19:37" Modified_Date="2021-05-03 13:12:58" Creator="James.Powell" Comments="" ID="8b4d0628929b6bb153c0575c1ecd5537">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2016-10-03 15:19:37" Modified_Date="2021-09-29 12:07:00" Creator="James.Powell" Comments="" ID="87477481365df094bba330dfdd0972d8">
   <Library_General_Settings>
     <Package_File_Name>JDP_Science_PostgreSQL</Package_File_Name>
-    <Library_Version>0.3.4.23</Library_Version>
+    <Library_Version>0.3.5.24</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>builds</Library_Output_Folder>
@@ -35,7 +35,11 @@ https://forums.ni.com/t5/NI-Linux-Real-Time-Documents/Tutorial-PostgreSQL-with-L
       <Copyright>Copyright (c) 2016, JDP Science Limited</Copyright>
       <Packager>JDP Science</Packager>
       <URL>https://www.vipm.io/package/jdp_science_postgresql/</URL>
-      <Release_Notes>0.3.4:
+      <Release_Notes>0.3.5:
+- Connect: check for &lt;not a path&gt; before CLFN
+- PGPASS: add check for minimum file size
+
+0.3.4:
 - fix issues with PGPASS credentials UI
 - look for "(" ")" in COPY column list
 
@@ -202,7 +206,6 @@ Thanks to contributor Antoine Chalons (@antoinechalons) for their work on this r
       <close_labview_before_install>false</close_labview_before_install>
       <restart_labview_after_install>false</restart_labview_after_install>
       <skip_mass_compile_after_install>false</skip_mass_compile_after_install>
-      <install_into_global_environment>false</install_into_global_environment>
     </LabVIEW>
     <VI_Docs>
       <Edit_VI_Description>false</Edit_VI_Description>
@@ -386,7 +389,7 @@ Thanks to contributor Antoine Chalons (@antoinechalons) for their work on this r
         <Path>Connection\COPY.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2A6CE74556DFA94404AE0F71C9E15CAB</GUID>
+      <GUID>96DE747D451C73C1B0BE30802A32920A</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
