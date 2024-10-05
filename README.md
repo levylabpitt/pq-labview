@@ -1,3 +1,5 @@
+This repository was a clone of https://bitbucket.org/drjdpowell/pq-labview/src/master/, but is now archived. All contributations have been added to the upstream source.
+
 # pq-labview
 
 PostgreSQL PQ client library wrapped by LabVIEW
